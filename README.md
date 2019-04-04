@@ -5,3 +5,4 @@ A Hardware Interface for raspberry pi, powered by Arduino.
 
 ### Parts List
 The parts for this project will be per-revision and you can find 1.0's list [here](https://docs.google.com/document/d/1YyHrOgb8sgsYFrR8eTR8jrlIRiCTGaInAbdWLq8wxUk/edit?usp=sharing)
+more will come later as we progress.
